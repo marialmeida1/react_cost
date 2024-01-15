@@ -1,0 +1,57 @@
+{
+  "projects": [
+    {
+      "name": "Primeiro Projeto Atualizado",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1515,
+      "services": [
+        {
+          "name": "Desenvolvimento ",
+          "cost": "1500",
+          "description": "Criar página inicial",
+          "id": "59e7a308-622d-41f0-9e4d-755768580b91"
+        },
+        {
+          "name": "Comprar papel",
+          "cost": "15",
+          "description": "Ir na papelaria",
+          "id": "2244f550-89c3-4870-a4be-d4919e8df3fd"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Girls in Ctrl",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
