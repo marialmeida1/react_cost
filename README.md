@@ -1,10 +1,10 @@
-# Projeto COST - Gerenciador de Projetos
+# Projeto COSTS - Gerenciador de Projetos
 
-Este repositório contém o código-fonte do projeto COST, meu primeiro projeto em React, desenvolvido com o objetivo de aprender os fundamentos da biblioteca. O projeto foi construído com base no curso oferecido por Matheus Battisti no Canal Hora de Codar, cujo conteúdo pode ser acessado [aqui](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO).
+Este repositório contém o código-fonte do projeto COSTS, meu primeiro projeto em React, desenvolvido com o objetivo de aprender os fundamentos da biblioteca. O projeto foi construído com base no curso oferecido por Matheus Battisti no Canal Hora de Codar, cujo conteúdo pode ser acessado [aqui](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO).
 
 ## Descrição do Projeto
 
-O COST é um gerenciador de projetos que permite a criação e gestão de projetos em quatro categorias distintas: Infraestrutura, Desenvolvimento, Design e Planejamento. Cada projeto possui um orçamento, uma categoria associada, um custo total e uma lista de serviços.
+O COSTS é um gerenciador de projetos que permite a criação e gestão de projetos em quatro categorias distintas: Infraestrutura, Desenvolvimento, Design e Planejamento. Cada projeto possui um orçamento, uma categoria associada, um custo total e uma lista de serviços.
 
 ## Funcionalidades
 
@@ -29,4 +29,4 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina antes de execu
 
 Contribuições são bem-vindas! Se encontrar problemas, bugs ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Agradeço por explorar o projeto COST! Espero que ele seja útil para aprender React e construir futuros projetos incríveis.
+Agradeço por explorar o projeto COSTS! Espero que ele seja útil para aprender React e construir futuros projetos incríveis.
